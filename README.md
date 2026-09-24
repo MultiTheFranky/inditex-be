@@ -26,7 +26,7 @@ Requires JDK 17+. On macOS, free port 5000 first by turning off *System Settings
 AirDrop & Handoff → AirPlay Receiver*.
 
 ```bash
-./mvnw test    # 24 unit + integration tests, no infrastructure needed
+./mvnw test    # 28 unit + integration tests, no infrastructure needed
 ```
 
 ## Design
